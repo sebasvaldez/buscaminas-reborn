@@ -1,0 +1,27 @@
+body{
+    border: 0;
+    padding: 0;
+    background: lightsteelblue;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row ;
+
+
+}
+
+table{
+    border-spacing: 0;
+    
+}
+
+
+td{
+    border: rgba(0, 0, 0, .25) 1px solid;
+    font-size: 150px;
+    cursor: pointer;
+   
+}
